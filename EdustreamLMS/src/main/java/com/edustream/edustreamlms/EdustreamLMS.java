@@ -2,11 +2,11 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.edustreamlms;
+package com.edustream.edustreamlms;
 
 /**
  *
- * @author toty1
+ * @author Brandon Daniel
  */
 public class EdustreamLMS {
 
